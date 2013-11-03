@@ -1,3 +1,6 @@
 [submodule "what"]
 	path = what
 	url = git@github.com:benjojo/what.git
+[submodule "OhLord."]
+	path = OhLord.
+	url = git@github.com:benjojo/what.git
