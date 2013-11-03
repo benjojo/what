@@ -7,3 +7,6 @@
 [submodule "OhRight"]
 	path = OhRight
 	url = git@github.com:benjojo/what.git
+[submodule "Doge"]
+	path = Doge
+	url = git@github.com:benjojo/what.git
